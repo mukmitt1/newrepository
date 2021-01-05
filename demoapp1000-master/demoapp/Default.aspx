@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a a secondary application (Modified)
+            This is a a secondary application (Modified)  - New Deploy Slot
         </div>
     </form>
 </body>

@@ -1,25 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T00:22:18.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="rtYqM2y10nbwsYOCsjt9" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T02:04:19.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="B8XIL1X840fz1JpAMLlQ" version="21.6.6" type="github">
   <diagram name="Page-1" id="Fb9-ct8cxMX9iDDbKmGB">
     <mxGraphModel dx="687" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-1" target="4ZLLLVaVwEZqjzIY2rx8-4">
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-60" target="4ZLLLVaVwEZqjzIY2rx8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-53" value="websocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZLLLVaVwEZqjzIY2rx8-5">
+          <mxGeometry x="0.1306" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-1" value="Kindle" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.tablet;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="67.57" height="50" as="geometry" />
+          <mxGeometry x="131" y="120" width="67.57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-2" target="4ZLLLVaVwEZqjzIY2rx8-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-2" value="Customer" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/My_Customers.svg;" vertex="1" parent="1">
-          <mxGeometry x="60" y="133.23000000000002" width="29" height="23.54" as="geometry" />
+          <mxGeometry x="31" y="133.23000000000002" width="29" height="23.54" as="geometry" />
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310.51724137931035" y="122" as="sourcePoint" />
-            <mxPoint x="310.51724137931035" y="85" as="targetPoint" />
+            <mxPoint x="430.51724137931035" y="122" as="sourcePoint" />
+            <mxPoint x="430.51724137931035" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-4" target="4ZLLLVaVwEZqjzIY2rx8-10">
@@ -28,19 +33,22 @@
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=39.75;entryPerimeter=0;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-4" target="4ZLLLVaVwEZqjzIY2rx8-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="250" />
+              <mxPoint x="460" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-4" target="4ZLLLVaVwEZqjzIY2rx8-47">
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.19;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-4">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="310" />
-            </Array>
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-55" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Events&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZLLLVaVwEZqjzIY2rx8-52">
+          <mxGeometry x="-0.0769" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-4" value="Payment&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="122" width="105" height="45" as="geometry" />
+          <mxGeometry x="400" y="122" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-6" target="4ZLLLVaVwEZqjzIY2rx8-7">
           <mxGeometry relative="1" as="geometry" />
@@ -54,31 +62,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-6" value="Payment Service Provider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="105" height="45" as="geometry" />
+          <mxGeometry x="400" y="40" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-7" value="Fed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="105" height="45" as="geometry" />
+          <mxGeometry x="560" y="40" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.419;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-10" target="4ZLLLVaVwEZqjzIY2rx8-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Payment DB&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="461" y="114" width="63" height="63" as="geometry" />
+          <mxGeometry x="581" y="114" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-16" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;Payment Read DB -Historical&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="466" y="213" width="63" height="63" as="geometry" />
+          <mxGeometry x="586" y="213" width="63" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Payment Functional Requirements&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Payment to buy digital books&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Kindle to pay the digital book price&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Customer use the kindle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. customer can see historical payment info (2 years)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. Once transaction completed, send notification&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="231.5" width="240" height="168.5" as="geometry" />
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Payment Functional Requirements&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Payment to buy digital books&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Kindle to pay the digital book price&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Customer use the kindle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. customer can see historical payment info (2 years)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. Once transaction completed, send notification&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6. PCI/GDPA compliant&lt;/div&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="240" height="168.5" as="geometry" />
         </mxCell>
         <mxCell id="4ZLLLVaVwEZqjzIY2rx8-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-43" target="4ZLLLVaVwEZqjzIY2rx8-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Payment NFR&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 1M Customer&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Each customer buy 2 books daily&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Total Daily Transaction 1 Million * 2 Books = 2 Millions&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. TPS based on 24 hours = 2 Million /60 * 60 * 24 hr =&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Payment NFR&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 10M Customer&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Each customer buy 2 books daily&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Total Daily Transaction 10 Million * 2 Books = 20 Millions&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. TPS based on 24 hours = 20&amp;nbsp;Million /60 * 60 * 12 hr = 232 /sec&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Consistency is important&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6. Minimal Latency&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7. storage per day = 20 Million * assume 500 bytes = 10 GB/day&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8. Ingress per sec = 10 GB/3600*24 hrs = 116 KB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8. storage 7 year = 25.55 TB&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="410" width="360" height="168.5" as="geometry" />
         </mxCell>
-        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-47" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470.5" y="299" width="73.5" height="20" as="geometry" />
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-49" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Rest API&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Post API&amp;nbsp; api/v1/payment&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;(Customer id, payment id, payment type, amount, currency)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;GET API api/v1/payments&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Websocket user just to get the payment response later&lt;/b&gt;&lt;/div&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="24" y="590" width="360" height="168.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-54" target="4ZLLLVaVwEZqjzIY2rx8-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-54" target="4ZLLLVaVwEZqjzIY2rx8-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-54" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Message Broker Kafka&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-56" value="SES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-57" value="Twillio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZLLLVaVwEZqjzIY2rx8-1" target="4ZLLLVaVwEZqjzIY2rx8-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="145" as="sourcePoint" />
+            <mxPoint x="400" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZLLLVaVwEZqjzIY2rx8-60" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;API Gateway&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
+          <mxGeometry x="240" y="125.5" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
